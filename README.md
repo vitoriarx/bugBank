@@ -36,4 +36,4 @@ Concluído apenas quando:
 
 ## Recursos necessários: 
 * Ambiente de homologação
-* Ferramentas: Jira, Cypress, TestLink. 
+* Ferramentas: AzureDevOps, Cypress, TestLink. 
