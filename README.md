@@ -36,4 +36,13 @@ Concluído apenas quando:
 
 ## Recursos necessários: 
 * Ambiente de homologação
-* Ferramentas: AzureDevOps, Cypress, TestLink. 
+* Ferramentas: AzureDevOps, Cypress, TestLink.
+
+
+---
+
+## Documentação de Testes
+
+Você pode visualizar o documento de casos de teste clicando no link abaixo:
+
+[ Visualizar PDF - Casos de Teste do BugBank](https://docs.google.com/document/d/1CAZdnzSX3slbBpMjwCf4tzzABslZNj1GywY-8shLSNY/edit?usp=sharing)
